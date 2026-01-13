@@ -21,6 +21,9 @@ This project demonstrates NLP preprocessing, ML-based text similarity, and simpl
 
 Upload a resume and JD PDF to see the match score instantly.
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/79089f10-28ed-4617-bb02-92f7fe006720" />
+
+
 ---
 ### Installation
 
