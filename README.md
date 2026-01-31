@@ -29,7 +29,7 @@ Upload a resume and JD PDF to see the match score instantly.
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/ats-resume-matcher.git
+git clone https://github.com/Madhu-Wala/ATS-Resume-JD-Matcher.git
 cd ats-resume-matcher
 ```
 
